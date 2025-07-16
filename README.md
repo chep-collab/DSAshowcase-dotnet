@@ -1,8 +1,4 @@
-Absolutely, Mercy — here’s your fully polished, copy-ready `README.md` that you can drop straight into your project folder or GitHub repo. It's formatted cleanly with headings, code blocks, and even placeholder sections for your screenshot and future updates 💻✨
 
----
-
-```md
 # 💻 DSA Showcase — ASP.NET Razor Pages
 
 A sleek, developer-friendly ASP.NET Core web app displaying solved LeetCode challenges in C# via Razor Pages.
@@ -29,9 +25,11 @@ dotnet run
 ## 🔍 Demo Access
 
 Live preview available via Ngrok tunnel (on request).  
-📸 **Screenshot attached below.**
+📸 Screenshot below:
 
----
+[Screenshot of Razor DSA Output](./screenshot 1.png)
+[Screenshot of Razor DSA Output](./screenshot 2.png)
+
 
 ## ⚙️ Tech Stack
 
